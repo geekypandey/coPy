@@ -23,6 +23,6 @@ modules = ["core.py"]
 
 doc_url = "https://geekypandey.github.io/co_py/"
 
-git_url = "https://github.com/geekypandey/co_py/tree/main/"
+git_url = "https://github.com/geekypandey/co_py/tree/master/"
 
 def custom_doc_links(name): return None
