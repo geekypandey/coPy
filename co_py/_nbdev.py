@@ -2,8 +2,7 @@
 
 __all__ = ["index", "modules", "custom_doc_links", "git_url"]
 
-index = {"Card": "00_core.ipynb",
-         "Base": "codeforces_python_client.ipynb",
+index = {"Base": "codeforces_python_client.ipynb",
          "Contest": "codeforces_python_client.ipynb",
          "User": "codeforces_python_client.ipynb",
          "Problem": "codeforces_python_client.ipynb",
