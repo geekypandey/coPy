@@ -1,6 +1,8 @@
 {
   "co_py": {
     "Overview": "/",
-    "Codeforces API Python Client": "codeforces_python_client.html"
+    "Python Wrapper for Codeforces API": "core.py.html",
+    "Types": "types.py.html",
+    "Title": "Untitled.html"
   }
 }

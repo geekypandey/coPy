@@ -2,24 +2,29 @@
 
 __all__ = ["index", "modules", "custom_doc_links", "git_url"]
 
-index = {"Base": "codeforces_python_client.ipynb",
-         "Contest": "codeforces_python_client.ipynb",
-         "User": "codeforces_python_client.ipynb",
-         "Problem": "codeforces_python_client.ipynb",
-         "UserRating": "codeforces_python_client.ipynb",
-         "BlogEntry": "codeforces_python_client.ipynb",
-         "Comment": "codeforces_python_client.ipynb",
-         "Party": "codeforces_python_client.ipynb",
-         "ProblemStatistics": "codeforces_python_client.ipynb",
-         "ProblemResult": "codeforces_python_client.ipynb",
-         "RecentAction": "codeforces_python_client.ipynb",
-         "Hack": "codeforces_python_client.ipynb",
-         "Submission": "codeforces_python_client.ipynb",
-         "RanklistRow": "codeforces_python_client.ipynb",
-         "Standings": "codeforces_python_client.ipynb",
-         "CFApi": "codeforces_python_client.ipynb"}
+index = {"CFApi": "00_core.py.ipynb",
+         "cf": "00_core.py.ipynb",
+         "contests": "00_core.py.ipynb",
+         "contest": "00_core.py.ipynb",
+         "Base": "01_types.py.ipynb",
+         "Contest": "01_types.py.ipynb",
+         "Problem": "01_types.py.ipynb",
+         "ProblemStatistics": "01_types.py.ipynb",
+         "User": "01_types.py.ipynb",
+         "UserRating": "01_types.py.ipynb",
+         "BlogEntry": "01_types.py.ipynb",
+         "Comment": "01_types.py.ipynb",
+         "Party": "01_types.py.ipynb",
+         "ProblemResult": "01_types.py.ipynb",
+         "RecentAction": "01_types.py.ipynb",
+         "Submission": "01_types.py.ipynb",
+         "RanklistRow": "01_types.py.ipynb",
+         "Standings": "01_types.py.ipynb",
+         "Hack": "01_types.py.ipynb",
+         "RatingChange": "01_types.py.ipynb"}
 
-modules = ["core.py"]
+modules = ["core.py",
+           "types.py"]
 
 doc_url = "https://geekypandey.github.io/co_py/"
 

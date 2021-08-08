@@ -10,8 +10,14 @@ entries:
       title: Overview
       url: /
     - output: web,pdf
-      title: Codeforces API Python Client
-      url: codeforces_python_client.html
+      title: Python Wrapper for Codeforces API
+      url: core.py.html
+    - output: web,pdf
+      title: Types
+      url: types.py.html
+    - output: web,pdf
+      title: Title
+      url: Untitled.html
     output: web
     title: co_py
   output: web
